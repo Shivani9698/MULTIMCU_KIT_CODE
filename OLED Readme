@@ -1,9 +1,10 @@
-**OLED Display Control with Adafruit Libraries**
+```
+# OLED Display Control with Adafruit Libraries
 
-**Overview:**
+## Overview:
 This repository contains instructions and resources for controlling an OLED display using the Adafruit SSD1306 and Adafruit GFX libraries with Arduino IDE.
 
-**Instructions:**
+## Instructions:
 
 1. **Install Arduino IDE:**
    Ensure you have Arduino IDE installed on your system. If not, download and install it from the official Arduino website: [Arduino IDE Download](https://www.arduino.cc/en/software).
@@ -20,7 +21,7 @@ This repository contains instructions and resources for controlling an OLED disp
 5. **Restart Arduino IDE:**
    Once both libraries are installed, restart the Arduino IDE to ensure the changes take effect.
 
-**Usage:**
+## Usage:
 
 1. **Include Libraries:**
    In your Arduino sketch, include the necessary libraries at the beginning of your code:
@@ -44,12 +45,15 @@ This repository contains instructions and resources for controlling an OLED disp
 4. **Compile and Upload:**
    Compile your sketch and upload it to your Arduino board to see the output on the OLED display.
 
-**Resources:**
+## Resources:
 - [Adafruit SSD1306 Library](https://github.com/adafruit/Adafruit_SSD1306)
 - [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
 
-**License:**
+## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Author:**
-Shivani Raj
+## Author:
+[Your Name/Contact Information]
+
+Feel free to modify this README file according to your project's specific requirements and preferences.
+```
