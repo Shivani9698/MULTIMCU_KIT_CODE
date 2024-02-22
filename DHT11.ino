@@ -1,6 +1,6 @@
 #include "DHT.h"
 
-#define DHTPIN 26     // what pin we're connected to
+#define DHTPIN 2     // what pin we're connected to
 
 // Uncomment whatever type you're using!
 #define DHTTYPE DHT11   // DHT 11 
